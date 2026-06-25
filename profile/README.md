@@ -1,6 +1,6 @@
 <div align="center">
 
-# botgenossen GmbH
+# Botgenossen GmbH
 
 ### Intelligence you can trust. Made in Germany.
 
@@ -55,7 +55,7 @@ We publish things that we think are genuinely useful:
 
 <div align="center">
 
-# botgenossen GmbH
+# Botgenossen GmbH
 
 ### Intelligenz, der man vertrauen kann. Made in Germany.
 
